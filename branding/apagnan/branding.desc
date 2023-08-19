@@ -13,16 +13,13 @@ windowPlacement: center
 sidebar: none
 
 strings:
-    productName:         DTOS
-    shortProductName:    DTOS
+    productName:         Apagnan
+    shortProductName:    Apagnan
     version:             2023.08
     shortVersion:        2023.08
-    versionedName:       DTOS
-    shortVersionedName:  DTOS
-    bootloaderEntryName: DTOS
-    productUrl:          https://distro.tube/dtos/
-    supportUrl:          https://distro.tube/dtos/
-    releaseNotesUrl:     https://distro.tube/dtos/
+    versionedName:       Apagnan
+    shortVersionedName:  Apagnan
+    bootloaderEntryName: Apagnan
 
 
 uploadServer :
