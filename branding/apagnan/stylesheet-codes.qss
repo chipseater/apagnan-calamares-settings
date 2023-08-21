@@ -45,7 +45,7 @@ Use gammaray
 
 #sidebarMenuApp {
 	padding: 3px;
-	background-color: #353945;
+	background-color: #232A2E;
 }
 
 QWidget {
@@ -62,44 +62,44 @@ QListWidget::item:alternate {
 }
 
 #view-button-back:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #view-button-next:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #view-button-cancel:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 
 #debugButton {
 	font: bold 8px;
-	color: #FFFFFF;
+	color: #859867;
 }
 #debugButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 
 #aboutButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #donateButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #supportButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #knownIssuesButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 #releaseNotesButton:hover {
-	color: #58B2D7;
+	color: #A7C080;
 }
 
 /* ########## TOOLTIP ########## */
 
 QToolTip {
-	background-color: #58B2D7;
-  font : 16px;
+	background-color: #425047;
+    font : 16px;
 	color: white;
 	padding: 3px;
 	border: none;
@@ -116,13 +116,13 @@ QDialogButtonBox {
 /* ########## SCROLL BAR ########## */
 
 QScrollBar:vertical {
-     background: #efefef;
+     background: #232A2E;
      width: 20px;
      margin: 38px 0 20px 0;
 }
 
 QScrollBar::handle:vertical {
-     background: #58B2D7;
+     background: #425047;
      max-height: 25px;
 }
 
@@ -149,37 +149,37 @@ QListView {
 }
 
 QListView::item:alternate {
-	color: #58B2D7;
-	color: white;
+	color: #2D353B;
+	color: #343F44;
 }
 
 QListView::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #2D353B;
 	color: white;
 }
 
 QListView::item:selected:active {
-	background: #58B2D7;
+	background: #4F585E;
 	color: white;
 }
 
 QListView::item:selected:!active {
-	background: #58B2D7;
+	background: #3D484D;
 	color: white;
 }
 
 QListView::item:hover {
-	background: #58B2D7;
+	background: #475258;
 	color: white;
 }
 
 QListView#listLayout::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #2D353B;
 	color: white;
 }
 
 QListView#listVariant::item:!alternate:selected:active {
-	background: #58B2D7;
+	background: #2D353B;
 	color: white;
 }
 
@@ -315,7 +315,7 @@ QComboBox {
 }
 
 QComboBox::item:selected {
-	background: #58B2D7;
+	background: #A7C080;
 	color: white;
 }
 
@@ -345,7 +345,7 @@ QTreeView::item {
 }
 
 QTreeView::item:selected {
-	background: #58B2D7;
+	background: #A7C080;
 	font: bold;
 }
 
@@ -386,7 +386,7 @@ QProgressBar {
 }
 
 QProgressBar::chunk {
-	background-color: #58B2D7;
+	background-color: #A7C080;
 }
 
 #debugButton {
