@@ -21,14 +21,7 @@ import QtQuick.Window 2.3
 Kirigami.ScrollablePage {
     // You can hard-code a color here, or bind to a Kirigami theme color,
     // or use a color from Calamares branding, or ..
-    readonly property color unfilledFieldColor: "#F4DBD0"
-    readonly property color positiveFieldColor: "#F4DBD0"
-    readonly property color negativeFieldColor: "#F4DBD0"
-    readonly property color unfilledFieldOutlineColor: "#1F1F1F"
-    readonly property color positiveFieldOutlineColor: "#8DA101"
-    readonly property color negativeFieldOutlineColor: "#BE5F68"
-    readonly property color headerTextColor: "#2D353B"
-    readonly property color commentsColor: "#F4DBD0"
+    readonly property color headerTextColor: "#FFFFFF"
 
     width: parent.width
     height: parent.height
