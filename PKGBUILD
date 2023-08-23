@@ -1,5 +1,5 @@
 pkgname=apagnan-calamares-settings
-pkgver=r17.1c8e3cb
+pkgver=r10.f86a821
 pkgrel=1
 pkgdesc="Settings used by the calamares instaler for Apagnan Linux"
 arch=('any')
